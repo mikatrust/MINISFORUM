@@ -8,8 +8,8 @@ See https://www.amazon.fr/Ventilateur-MINISFORUM-Processeur-Graphiques-Sortie-HD
 * !! Plug you usb disk containing the Linux image    
 * Switch on the MinisForum PC
 * Press Suppr to enter the BIOS
-** In the main tab of the BIOS, set time and date
-** In the Boot tab of the BIOS, set Boot Option #1 to USB Key
+* In the main tab of the BIOS, set time and date
+* In the Boot tab of the BIOS, set Boot Option #1 to USB Key
 * In the Boot tab of the BIOS, set UEFI Hard DiskDrive BBS priorities, Boot Option #1 to Disable
 * In the Boot tab of the BIOS, set UEFI USB Key Drive BBS Priorities Boot Option #1 your usb stick model brand 
 * In the tab Save & Exit, select Saves Changes and Exit
