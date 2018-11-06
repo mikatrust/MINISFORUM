@@ -1,5 +1,6 @@
 # MINISFORUM
-Steps to install your preferred Linuw distrib on MinisForum PC
+Steps to install your preferred Linux distrib on MinisForum PC
+See https://www.amazon.fr/Ventilateur-MINISFORUM-Processeur-Graphiques-Sortie-HDMIetVGA/dp/B07F9VZ3XK
 
 ##
 * Prepare a usb stick with your preferred Linux distribution image (I used UNetbootin to prepare the image and install it on the usb stick)
