@@ -3,7 +3,13 @@ Steps to install your preferred Linux distrib on MinisForum PC
 See https://www.amazon.fr/Ventilateur-MINISFORUM-Processeur-Graphiques-Sortie-HDMIetVGA/dp/B07F9VZ3XK
 
 ##
-* Prepare a usb stick with your preferred Linux distribution image (I used UNetbootin to prepare the image and install it on the usb stick)
+* Prepare a usb stick with your preferred Linux distribution image 
+* MAC : 
+* run "diskutil list" to get the identifier, eg disk1s1
+* sudo diskutil umount /dev/disk1s1
+* sudo dd if=Downloads/ubuntu-16.04.5-server-amd64.iso of=/dev/disk1s1 bs=1m
+* 
+*
 * Plug your MinisForum PC (power, keyboard, mouse, network, screen)
 * !! Plug you usb disk containing the Linux image    
 * Switch on the MinisForum PC
